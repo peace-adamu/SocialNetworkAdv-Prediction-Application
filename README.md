@@ -82,7 +82,7 @@ The app provides:
 
 After training and evaluating the model, the results were:
 
-- Accuracy: ~91% (based on classification report)
+- Accuracy: 88% (based on classification report)
 
 - Precision and Recall: High for both classes, especially after SMOTE balancing
 
